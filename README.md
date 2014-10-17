@@ -1,2 +1,2 @@
-Monte-Carlo-Page-Rank-C-
+Monte-Carlo-Page-Rank-C++
 ========================
